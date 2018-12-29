@@ -1,0 +1,2 @@
+# constructor
+example of constructor
